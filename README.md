@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Projects that I coded in Data Structures and Algorithms lecture in C programming language
+Projects that I coded in Data Structures and Algorithms in C programming language
